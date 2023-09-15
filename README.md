@@ -16,7 +16,7 @@ Aplicación que gestiona los productos de un quiosco de comida tanto por parte d
 - Prisma
 - SQL
 
-En el siguiente enlace podemos apreciar el funcionamiento del proyecto: 
+En los siguientes enlaces podemos apreciar el funcionamiento del proyecto: 
 
 [Quiosco cliente](https://quioscoapp-production-0739.up.railway.app/) 
 
